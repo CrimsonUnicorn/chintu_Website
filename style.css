@@ -1,0 +1,64 @@
+body{
+  background-color: #E9DAC1;
+  text-align: center;
+}
+img{
+  width: 300px;
+}
+.team{
+  background-color:;
+ }
+ .ali{
+
+   margin: 100px auto 300px auto;
+   text-align: left;
+
+   width: 50%
+ }
+.aman{
+  margin: 100px auto 400px auto;
+  text-align: left;
+  line-height: 2;
+  width: 50%
+}
+.chayan{
+  margin: 100px auto 400px auto;
+  text-align: left;
+
+  width: 50%
+}
+.madhur{
+  margin: 100px auto 400px auto;
+  text-align: left;
+
+  width: 50%
+}
+.vibhor{
+  margin: 100px auto 500px auto;
+  text-align: left;
+  
+  width: 50%
+}
+.ali-img{
+  float: left;
+  padding-right: 50px;
+}
+.aman-img{
+  float: right;
+  padding-left: 50px;
+}
+.chayan-img{
+  float: left;
+  padding-right: 50px;
+}
+.madhur-img{
+  float: right;
+  padding-left: 50px;
+}
+.vibhor-img{
+  float: left;
+  padding-right: 50px;
+}
+.project{
+
+}
